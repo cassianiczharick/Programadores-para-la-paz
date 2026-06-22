@@ -1,0 +1,4 @@
+{
+  "tipo": "Bienestar animal",
+  "descripcion": "Se reporta la presencia de varios perros abandonados cerca de la escuela del barrio que requieren atención."
+}
