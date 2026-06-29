@@ -1,0 +1,17 @@
+Ejemplo 1:
+
+```json
+{
+  "tipo": "Movilidad",
+  "descripcion": "Los habitantes reportan que un semáforo permanece fuera de servicio, generando congestión vehicular y riesgo de accidentes."
+}
+```
+
+Ejemplo 2:
+
+```json
+{
+  "tipo": "Salud pública",
+  "descripcion": "La comunidad informa la presencia de aguas estancadas en un lote baldío, lo que favorece la proliferación de mosquitos."
+}
+```
